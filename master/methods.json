@@ -1,0 +1,39 @@
+{
+    "METHODS": {
+        "UDP-DNS": {
+            "ID": 1,
+            "name": "UDP-DNS",
+            "description": "UDP-DNS",
+            "subnet": 1,
+            "mtype": 1
+        },
+        "UDP-WSD": {
+            "ID": 2,
+            "name": "WSD AMP (Powerful)",
+            "description": "IDK",
+            "subnet": 1,
+            "mtype": 1
+        },
+        "UDP1": {
+            "ID": 3,
+            "name": "WSD1 (Powerful)",
+            "description": "IDK",
+            "subnet": 1,
+            "mtype": 1
+        },
+        "UDP2": {
+            "ID": 4,
+            "name": "WSD2 (Powerful)",
+            "description": "IDK",
+            "subnet": 1,
+            "mtype": 1
+        },
+        "UDP3": {
+            "ID": 5,
+            "name": "WSD3 (Powerful)",
+            "description": "IDK",
+            "subnet": 1,
+            "mtype": 1
+        }
+    }
+}
